@@ -28,4 +28,5 @@
 - **ENS Domains:** _170$_
 - **Gnosis Treasury:** _1034$_
 
+## Misc
 - **Travel Expenses:** _500$_
