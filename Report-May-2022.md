@@ -11,7 +11,7 @@
 - **Mini-Fridge for Seed Bank’s first steps:** _300 USD_
 - **Satellite Remote Viewing System:** _1200 USD_
 - **Wireless Cameras:** _290 USD_
-- **Drilling Machine for Poles::** _170 USD_
+- **Drilling Machine for Poles:** _170 USD_
 - **Irrigation System:** _200 USD_
 - **Mycorrhiza(_3x_):** _110 USD_
 - **EMA:** _60 USD_
@@ -27,3 +27,5 @@
 - **Domains:** _166$_
 - **ENS Domains:** _170$_
 - **Gnosis Treasury:** _1034$_
+
+-**Travel Expenses:** _500$_
